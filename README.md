@@ -3,6 +3,7 @@ This simple webpage contains functionalities of creating a QR image using any te
 This webpage uses flask framework to generate the QR image and get contents of QR image using a public API and javascript to add minor funtionalities to webpage and HTML,CSS to make webpage funtioning and visually appealing.
 
 ## Features
-->Simple and friendly layout.
-->Download the generated QR image.
+->Simple and friendly layout.\
+->Download the generated QR image.\
+->Copy the scanned data of QR image.
 
